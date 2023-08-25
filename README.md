@@ -1,6 +1,6 @@
 # ChemTrans
 
-Source code for *[Transcription between Human-readable Synthetic Descriptions and Machine-executable Instructions: An Application of Latest Pre-training Technology](TODO)* under review. Our operating system is Ubuntu 16.04. For training process, the 3090 GPU is used.
+Source code for *[Transcription between Human-readable Synthetic Descriptions and Machine-executable Instructions: An Application of Latest Pre-training Technology](https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC02483K)*. Our operating system is Ubuntu 16.04. For training process, the 3090 GPU is used.
 
 ## Simplified Instruction
 
