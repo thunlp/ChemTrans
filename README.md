@@ -180,3 +180,15 @@ python I2D_deval.py LOG_FILE(e.g. log/ftrevbasepre_)
 
 ## Citation
 Please cite our paper if you find it helpful.
+```
+@Article{D3SC02483K,
+author ="Zeng, Zheni and Nie, Yi-Chen and Ding, Ning and Ding, Qian-Jun and Ye, Wei-Ting and Yang, Cheng and Sun, Maosong and E, Weinan and Zhu, Rong and Liu, Zhiyuan",
+title  ="Transcription between human-readable synthetic descriptions and machine-executable instructions: an application of the latest pre-training technology",
+journal  ="Chem. Sci.",
+year  ="2023",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D3SC02483K",
+url  ="http://dx.doi.org/10.1039/D3SC02483K"
+}
+```
